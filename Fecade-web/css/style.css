@@ -1,0 +1,15 @@
+
+body{
+    background-image: url(images/0818wallpaper-6_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 60px;
+    width: 100%;
+}
+@media screen and(max-width: 1100px){
+    body{
+        flex-wrap: wrap;
+    }
+    
+}
+  
